@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pdks-halia.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b257e3d3a0d1c89d62aec93e644a991037418b8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dca3eec5d9600188a166178c00571a2536dcf8eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("pdks-halia.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pdks-halia.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
