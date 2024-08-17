@@ -1,0 +1,12 @@
+C:\Users\efe-d\Development\Company\pdks\pdks-halia.Core\bin\x64\Release\net7.0\pdks-halia.Core.deps.json
+C:\Users\efe-d\Development\Company\pdks\pdks-halia.Core\bin\x64\Release\net7.0\pdks-halia.Core.dll
+C:\Users\efe-d\Development\Company\pdks\pdks-halia.Core\bin\x64\Release\net7.0\pdks-halia.Core.pdb
+C:\Users\efe-d\Development\Company\pdks\pdks-halia.Core\obj\x64\Release\net7.0\pdks-halia.Core.csproj.AssemblyReference.cache
+C:\Users\efe-d\Development\Company\pdks\pdks-halia.Core\obj\x64\Release\net7.0\pdks-halia.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efe-d\Development\Company\pdks\pdks-halia.Core\obj\x64\Release\net7.0\pdks-halia.Core.AssemblyInfoInputs.cache
+C:\Users\efe-d\Development\Company\pdks\pdks-halia.Core\obj\x64\Release\net7.0\pdks-halia.Core.AssemblyInfo.cs
+C:\Users\efe-d\Development\Company\pdks\pdks-halia.Core\obj\x64\Release\net7.0\pdks-halia.Core.csproj.CoreCompileInputs.cache
+C:\Users\efe-d\Development\Company\pdks\pdks-halia.Core\obj\x64\Release\net7.0\pdks-halia.Core.dll
+C:\Users\efe-d\Development\Company\pdks\pdks-halia.Core\obj\x64\Release\net7.0\refint\pdks-halia.Core.dll
+C:\Users\efe-d\Development\Company\pdks\pdks-halia.Core\obj\x64\Release\net7.0\pdks-halia.Core.pdb
+C:\Users\efe-d\Development\Company\pdks\pdks-halia.Core\obj\x64\Release\net7.0\ref\pdks-halia.Core.dll
